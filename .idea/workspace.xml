@@ -80,8 +80,8 @@
         <option value="$PROJECT_DIR$/chessman/Che.py" />
         <option value="$PROJECT_DIR$/chessman/Bing.py" />
         <option value="$PROJECT_DIR$/ChessPiece.py" />
-        <option value="$PROJECT_DIR$/ChessGame.py" />
         <option value="$PROJECT_DIR$/chessman/Shuai.py" />
+        <option value="$PROJECT_DIR$/ChessGame.py" />
       </list>
     </option>
   </component>

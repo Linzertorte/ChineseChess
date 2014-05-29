@@ -23,7 +23,7 @@ class ChessView:
             self.piece_images[x, y] = Tkinter.PhotoImage(file=pieces[x, y].get_image_file_name())
             self.can.create_image(board_coord(x), board_coord(y), image=self.piece_images[x, y])
         if board.selected_piece:
-            for (x, y) in board.selected_piece.get_move_locs():
+            for (x, y) in board.selected_piece.get_move_locs(board):
                 self.move_images.append(Tkinter.PhotoImage(file="images/OOS.gif"))
                 self.can.create_image(board_coord(x), board_coord(y), image=self.move_images[-1])
     def showMsg(self, msg):

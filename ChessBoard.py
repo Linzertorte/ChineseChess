@@ -62,6 +62,9 @@ class ChessBoard:
     def __init__(self):
         pass
 
+    def can_move(self, x, y, dx, dy):
+        return self.pieces[x, y].can_move(self, dx, dy)
+
     def move(self, x, y, dx, dy):
         return self.pieces[x, y].move(self, dx, dy)
 
@@ -78,7 +81,8 @@ class ChessBoard:
         if not (x, y) in self.pieces:
             if self.selected_piece:
                 ox, oy = self.selected_piece.x, self.selected_piece.y
-                if self.move(ox, oy, x-ox, y-oy):
+                if self.can_move(ox, oy, x-ox, y-oy):
+                    self.move(ox, oy, x-ox, y-oy)
                     self.pieces[x,y].selected = False
                     self.selected_piece = None
                     return True
@@ -89,7 +93,8 @@ class ChessBoard:
 
         if self.pieces[x, y].is_red != player_is_red:
             ox, oy = self.selected_piece.x, self.selected_piece.y
-            if self.move(ox, oy, x-ox, y-oy):
+            if self.can_move(ox, oy, x-ox, y-oy):
+                self.move(ox, oy, x-ox, y-oy)
                 self.pieces[x,y].selected = False
                 self.selected_piece = None
                 return True

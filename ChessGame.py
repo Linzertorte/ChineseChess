@@ -30,9 +30,7 @@ class ChessGame:
         rx, ry = real_coord(event.x), real_coord(event.y)
         if self.board.select(rx, ry, self.player_is_red):
             self.player_is_red = not self.player_is_red
-            print 'play', self.player_is_red
             self.view.showMsg("Red" if self.player_is_red else "Green")
-        print rx, ry
         self.view.draw_board(self.board)
 
 game = ChessGame()

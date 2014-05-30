@@ -32,19 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ma.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Ma.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chessman/Ma.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="13" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="697">
+            <state line="31" column="0" selection-start="829" selection-end="829" vertical-scroll-proportion="0.73058635" vertical-offset="66" max-vertical-offset="697">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChessGame.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ChessGame.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ChessGame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="55" selection-start="679" selection-end="679" vertical-scroll-proportion="0.6337522" vertical-offset="157" max-vertical-offset="714">
+            <state line="31" column="55" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
               <folding />
             </state>
           </provider>
@@ -76,12 +76,12 @@
         <option value="$PROJECT_DIR$/chessman/Xiang.py" />
         <option value="$PROJECT_DIR$/chessman/Shi.py" />
         <option value="$PROJECT_DIR$/chessman/Pao.py" />
-        <option value="$PROJECT_DIR$/chessman/Ma.py" />
         <option value="$PROJECT_DIR$/chessman/Che.py" />
         <option value="$PROJECT_DIR$/chessman/Bing.py" />
         <option value="$PROJECT_DIR$/ChessPiece.py" />
         <option value="$PROJECT_DIR$/chessman/Shuai.py" />
         <option value="$PROJECT_DIR$/ChessGame.py" />
+        <option value="$PROJECT_DIR$/chessman/Ma.py" />
       </list>
     </option>
   </component>
@@ -365,8 +365,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -376,15 +376,15 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24187256" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1456437" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -420,37 +420,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Bing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="33" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="901">
-          <folding />
-        </state>
+        <state line="23" column="33" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="901" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Pao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="36" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="833">
-          <folding />
-        </state>
+        <state line="11" column="36" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="833" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Shuai.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="51" selection-start="673" selection-end="1086" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="799">
-          <folding />
-        </state>
+        <state line="36" column="51" selection-start="673" selection-end="1086" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="799" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChessBoard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="33" selection-start="554" selection-end="554" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1802">
-          <folding />
-        </state>
+        <state line="22" column="33" selection-start="554" selection-end="554" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1802" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Xiang.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="51" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
-          <folding />
-        </state>
+        <state line="36" column="51" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Che.py">
@@ -469,9 +459,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Bing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="33" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="901">
-          <folding />
-        </state>
+        <state line="23" column="33" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="901" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChessGame.py">
@@ -486,9 +474,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ChessBoard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="35" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1802">
-          <folding />
-        </state>
+        <state line="16" column="35" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1802" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChessView.py">
@@ -522,9 +508,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Pao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="33" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="16" column="33" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Shi.py">
@@ -534,16 +518,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Shuai.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="33" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="612">
-          <folding />
-        </state>
+        <state line="15" column="33" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="612" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Xiang.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="27" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="493">
-          <folding />
-        </state>
+        <state line="7" column="27" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="493" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChessGame.py">
@@ -558,9 +538,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ChessBoard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="18" selection-start="1583" selection-end="1583" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1479">
-          <folding />
-        </state>
+        <state line="67" column="18" selection-start="1583" selection-end="1583" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1479" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChessPiece.py">
@@ -570,9 +548,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Bing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="272">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="272" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChessGame.py">
@@ -582,9 +558,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ChessBoard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="578">
-          <folding />
-        </state>
+        <state line="20" column="16" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="578" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/RK.GIF">
@@ -644,16 +618,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Xiang.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="13" selection-start="811" selection-end="811" vertical-scroll-proportion="0.58301884" vertical-offset="201" max-vertical-offset="731">
-          <folding />
-        </state>
+        <state line="30" column="13" selection-start="811" selection-end="811" vertical-scroll-proportion="0.58301884" vertical-offset="201" max-vertical-offset="731" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Shi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="13" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.8509434" vertical-offset="144" max-vertical-offset="816">
-          <folding />
-        </state>
+        <state line="35" column="13" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.8509434" vertical-offset="144" max-vertical-offset="816" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Che.py">
@@ -663,58 +633,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chessman/Ma.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="13" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ChessPiece.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="25" selection-start="660" selection-end="660" vertical-scroll-proportion="0.24416517" vertical-offset="255" max-vertical-offset="833">
-          <folding />
-        </state>
+        <state line="23" column="25" selection-start="660" selection-end="660" vertical-scroll-proportion="0.24416517" vertical-offset="255" max-vertical-offset="833" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChessBoard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="25" selection-start="2215" selection-end="2215" vertical-scroll-proportion="0.4578097" vertical-offset="1071" max-vertical-offset="1785">
-          <folding />
-        </state>
+        <state line="84" column="25" selection-start="2215" selection-end="2215" vertical-scroll-proportion="0.4578097" vertical-offset="1071" max-vertical-offset="1785" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Shuai.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="33" selection-start="835" selection-end="835" vertical-scroll-proportion="0.76301616" vertical-offset="0" max-vertical-offset="697">
-          <folding />
-        </state>
+        <state line="25" column="33" selection-start="835" selection-end="835" vertical-scroll-proportion="0.76301616" vertical-offset="0" max-vertical-offset="697" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Pao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="62" selection-start="563" selection-end="617" vertical-scroll-proportion="0.36624774" vertical-offset="204" max-vertical-offset="765">
-          <folding />
-        </state>
+        <state line="24" column="62" selection-start="563" selection-end="617" vertical-scroll-proportion="0.36624774" vertical-offset="204" max-vertical-offset="765" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chessman/Bing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="20" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.57271093" vertical-offset="259" max-vertical-offset="816">
-          <folding />
-        </state>
+        <state line="35" column="20" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.57271093" vertical-offset="259" max-vertical-offset="816" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChessView.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="75" selection-end="76" vertical-scroll-proportion="-0.06822262" vertical-offset="157" max-vertical-offset="714">
-          <folding />
-        </state>
+        <state line="7" column="16" selection-start="75" selection-end="76" vertical-scroll-proportion="-0.06822262" vertical-offset="157" max-vertical-offset="714" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ChessGame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="55" selection-start="679" selection-end="679" vertical-scroll-proportion="0.6337522" vertical-offset="157" max-vertical-offset="714">
+        <state line="31" column="55" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chessman/Ma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="829" selection-end="829" vertical-scroll-proportion="0.73058635" vertical-offset="66" max-vertical-offset="697">
           <folding />
         </state>
       </provider>

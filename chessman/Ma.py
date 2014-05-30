@@ -25,7 +25,7 @@ class Ma(ChessPiece):
         if abs(dx) + abs(dy) !=3:
             #print 'not normal'
             return False
-        if (x+dx/2, y+dy/2) in board.pieces:
+        if (x if abs(dx) ==1 else x+dx/2, y if abs(dy) ==1 else y+ (dy/2)) in board.pieces:
             #print 'blocked'
             return False
         return True
